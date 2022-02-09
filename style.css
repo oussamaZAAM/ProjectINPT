@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(6, 30, 61);
+}
+#bt21{color: rgb(75, 132, 206); background-color: #c1e2f0; text-align: center ;font-size: 1cm; padding: 0.5cm 2.5cm;border: none;border-radius: 6px; top:8cm;position: absolute; left: 2.1cm ;}
+#bt1{color: rgb(75, 132, 206); background-color: #c1e2f0; text-align: center ;font-size: 1cm; padding: 0.5cm 3.2cm;border: none;border-radius: 6px; top:7cm;position: absolute; left: 3cm ; }
+#link1{color: rgb(75, 132, 206);text-decoration: none;}
+#bt2{color: rgb(75, 132, 206); background-color: #c1e2f0; text-align: center ;font-size: 1cm; padding: 0.5cm 3.8cm;border: none;border-radius: 6px; top:10.2cm;position: absolute; left: 3cm ;  }
+#link2{color: rgb(75, 132, 206);text-decoration: none;}
+#img1{position: absolute; left: 1.5cm; top: 1.2cm; border-radius: 8px; }
+#img2{position: absolute; right: 0px; top: 0cm; }
+#txt1{position: absolute; text-align: center; top: 6.3cm; left: 12cm; ; font-size: 1cm; height: 1.6cm;color: rgb(75, 132, 206); background-color: #c1e2f0; border-radius: 8px;}
+#pass1{position: absolute; text-align: center; top: 9cm; left: 12cm;font-size: 1cm ; height: 1.6cm; color: rgb(75, 132, 206); background-color: #c1e2f0; border-radius: 8px;}
+#sub1{position: absolute; text-align: center; top: 12cm;left: 19.5cm; font-size: 1cm; height: 1.8cm; width: 4.9cm; color: #fffffd; background-color: rgb(28, 127, 219); border-radius: 8px; border-color: #fffffd; border-width: 5px;}
+#sub2{position: absolute; left: 12cm; top: 12cm; font-size: 1cm; height: 1.8cm; width: 5.7cm;  color: #fffffd; background-color: rgb(28, 127, 219); border-radius: 8px; border-color: #fffffd; border-width: 5px;}
+#p1{position: absolute;font-size: 0.95cm; top: 4.6cm; color: #fffffd; left: 5cm;}
+#p2{position: absolute; font-size: 1cm;  color: #fffffd; border-color:#fffffd ; border-style: solid; width: 18cm; height: 1.7cm; background-color: rgb(28, 127, 219) ; left: 5cm; top: 6.7cm; border-radius: 8px; text-align: center;}
+#img3{position: absolute; top: 0.9cm; left: 24cm;}
+.v1{ border-left: 2px solid white; height: 2cm;}
+#ver1{position: absolute; left: 26cm; top: 0.5cm;}
+#ver2{position: absolute; left:31.6cm ; top: 0.5cm;}
+#p3{position: absolute; top: 0cm; left: 26.5cm; color: #fffffd; font-size: 0.9cm;}
+#p4{position: absolute; top: 0cm; left: 32cm; color: #fffffd; font-size: 0.9cm;}
+#bt3{position: absolute; font-size: 1cm;  color: #fffffd; border-color:#fffffd ; border-style: solid; width: 12cm; height: 1.7cm; background-color: rgb(28, 127, 219) ; left: 12cm; top: 7.1cm; border-radius: 8px; text-align: center;}
+#bt4{position: absolute; font-size: 1cm;  color: #fffffd; border-color:#fffffd ; border-style: solid; width: 12cm; height: 1.7cm; background-color: rgb(28, 127, 219) ; left: 12cm; top: 9.7cm; border-radius: 8px; text-align: center;}
+#p5{position: absolute; top: 5cm; left: 10.5cm; color: #fffffd; font-size: 1.2cm;}
+#p6{position: absolute; top: 5cm; left: 18.1cm; color: #fffffd; font-size: 1.2cm;}
+#t1{position: absolute; font-size: 0.9cm; color: rgb(75, 132, 206); top: 6.3cm; left: 13.5cm;}
+#t2{position: absolute; font-size: 0.9cm; color: rgb(75, 132, 206); top: 6.3cm; left: 19.5cm;}
+#p7{position: absolute; top: 7cm; left: 13.1cm; color: #fffffd; font-size: 1.2cm;}
+#p8{position: absolute; font-size: 1cm;  color: #fffffd; border-color:#fffffd ; border-style: solid; width: 10cm; height: 1.3cm; background-color: rgb(28, 127, 219) ; left: 5cm; top: 9cm; border-radius: 8px; text-align: center;}
+#p9{position: absolute; font-size: 1cm;  color: #fffffd; border-color:#fffffd ; border-style: solid; width: 10cm; height: 1.3cm; background-color: rgb(28, 127, 219) ; left: 20cm; top: 9cm; border-radius: 8px; text-align: center;}
